@@ -2,7 +2,32 @@
 
 Thank you for considering contributing to our project! We welcome contributions of all kinds, including bug fixes, new features, and improvements to our documentation. Please follow the guidelines below to ensure a smooth contribution process.
 
+- [Contributing Guide](#contributing-guide)
+  - [Getting Started](#getting-started)
+    - [Working with Data](#working-with-data)
+    - [1. Fork the Repository](#1-fork-the-repository)
+    - [2. Clone Your Fork](#2-clone-your-fork)
+    - [3. Create a Branch](#3-create-a-branch)
+  - [Setting Up the Development Environment](#setting-up-the-development-environment)
+      - [Linux/Mac](#linuxmac)
+      - [Windows](#windows)
+    - [2. Install Dependencies](#2-install-dependencies)
+    - [3. Run JupyterLab](#3-run-jupyterlab)
+  - [Making Changes](#making-changes)
+  - [Submitting a Pull Request](#submitting-a-pull-request)
+  - [Community Engagement](#community-engagement)
+  - [Reporting Issues](#reporting-issues)
+
+
 ## Getting Started
+
+### Working with Data
+
+All data files should be placed in the data directory. This directory is protected by .gitignore to prevent accidental commits of potentially large or sensitive data files.
+
+- Data Directory: Place your data files in the data directory.
+- Data Management: Treat all data with care. Ensure data privacy and security practices are followed.
+- Data Backup: Regularly back up your data to avoid any loss during development.
 
 ### 1. Fork the Repository
 Fork the repository on GitHub to your own account.
